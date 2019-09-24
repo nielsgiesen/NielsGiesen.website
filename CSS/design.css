@@ -6,7 +6,11 @@ html, body {
 }
 
 body {
-    background-image: url(https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTso4QKu3TWfcQNFf7mdXG2BO_exlvypdpTMODxaToKuvnTrdSK);
     background-repeat: no-repeat;
     background-size: cover;
+}
+h1 {
+  color: red;
+  text-align: center;
 }
